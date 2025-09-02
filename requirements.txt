@@ -20,7 +20,7 @@ llama-index-llms-groq
 llama-index-embeddings-huggingface 
 sentence-transformers
 
- langchain-groq 
+langchain-groq 
 faiss-cpu 
 
 twilio
@@ -31,3 +31,23 @@ crewai
 litellm
 request
 python-dotnev
+
+autogen-agentchat
+groq
+autogen
+
+neworkx
+spacy
+requests
+
+fastpi
+nest-asyncio
+uvicorn
+pyngrok
+scikit-learn
+
+autogen-agentchat 
+groq
+autogen
+
+gradio
