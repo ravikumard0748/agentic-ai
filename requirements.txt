@@ -51,3 +51,7 @@ groq
 autogen
 
 gradio
+
+tiktoken
+wikipedia
+datetime
